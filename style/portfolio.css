@@ -142,7 +142,7 @@ span
 }
 .intro-data p
 {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: payrus;
     margin-top: var(--gap-sm);
     line-height: normal;
     font-size: 1.6rem;
@@ -198,11 +198,9 @@ span
 {
     margin-top: 2rem;
     margin-bottom: 2rem;
-    font-size: 1.9rem;
-    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    font-family: Perpetua;
     line-height: 25px;
-    text-align: justify;
-    text-justify: inter-word;
 }
 h3
 {
@@ -223,11 +221,10 @@ h4
 } 
 .skillpara
 {
-    font-family: 'Times New Roman', Times, serif;
     font-size: 1.9rem;
     width: 100%;
     height: auto;
-    background-color: rgb(2, 29, 116);
+    background-color: rgb(5, 25, 63);
     padding: 2rem;
     border-radius: 5px;
     border: 1px solid;
