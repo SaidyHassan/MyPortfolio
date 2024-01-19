@@ -147,10 +147,11 @@ span
     line-height: normal;
     font-size: 1.6rem;
     margin-bottom: var(--gap-sm);
+    width: 100%;
 }
 .intouch-btn
 {
-    width: 100%;
+    width: 60%;
     height: 40px;
     color: white;
     font-weight: bold;
@@ -199,7 +200,7 @@ span
     margin-top: 2rem;
     margin-bottom: 2rem;
     font-size: 1.5rem;
-    font-family: Perpetua;
+    font-family: 'Times New Roman', Times, serif;
     line-height: 25px;
 }
 h3
