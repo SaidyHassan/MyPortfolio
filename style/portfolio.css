@@ -142,7 +142,7 @@ span
 }
 .intro-data p
 {
-    font-family: payrus;
+    font-family: 'Times New Roman', Times, serif;
     margin-top: var(--gap-sm);
     line-height: normal;
     font-size: 1.6rem;
@@ -195,11 +195,13 @@ span
     margin-bottom: 3rem;
     color: #0ef;
 }
-.para1, .para2, .para3
+.para1, 
+.para2, 
+.para3
 {
     margin-top: 2rem;
     margin-bottom: 2rem;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     font-family: 'Times New Roman', Times, serif;
     line-height: 25px;
 }
@@ -225,7 +227,7 @@ h4
     font-size: 1.9rem;
     width: 100%;
     height: auto;
-    background-color: rgb(5, 25, 63);
+    background-color: rgb(70, 30, 109);
     padding: 2rem;
     border-radius: 5px;
     border: 1px solid;
@@ -464,6 +466,7 @@ textarea
 {
     height: auto;
     padding: 1rem;
+    font-size: 1.5rem;
 }
 #comments-content
 {
